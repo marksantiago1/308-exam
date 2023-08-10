@@ -1,0 +1,30 @@
+h1{
+    text-align: left;
+}
+table{
+    width: auto;
+}
+body{
+    background-color: aquamarine;
+}
+table, th, td{
+    border: 1px;
+    border-style: solid;
+    border-collapse: collapse;
+}
+.motorcycle{
+    width: 200px;
+    height: auto;
+}
+.mobile_legends{
+    width: 200px;
+    height: auto;
+}
+.callofdutymobile1{
+    width: 200px;
+    height: auto;
+}
+.callofdutymobile{
+    width: 200px;
+    height: auto;
+}
